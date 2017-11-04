@@ -1,5 +1,4 @@
 # Hacking Challenges in JAVASCRIPT
----
 
 So, these are basic challenges I designed for my friend, to test their JS skills and see how it goes.
 
@@ -19,6 +18,6 @@ So, these are basic challenges I designed for my friend, to test their JS skills
  
 
 ## BinaryBlood
----
+
 [google]: http://google.com/
 [vanilla.js]: http://vanilla-js.com/
